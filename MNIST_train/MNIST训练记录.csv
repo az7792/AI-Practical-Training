@@ -1,0 +1,2 @@
+model,n_estimators,learning_rate,max_depth,subsample,colsample_bytree,train_acc,val_acc
+XGBClassifier,150,0.1,11,0.8,0.8,1.0,0.9712833333333334
