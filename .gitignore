@@ -1,0 +1,10 @@
+*.pth
+VOC2005/test
+VOC2005/train
+VOC2005/train1
+VOC2005/val
+dogCatTrain/test1
+dogCatTrain/train
+flower/flower
+MNIST_train/MNIST
+yolov5-7.0/
